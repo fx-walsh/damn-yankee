@@ -1,0 +1,1 @@
+docker run -it -d --name damn-yankee-container -v C:\Users\francisw\Documents\damn-yankee\:/app/damn-yankee/ -v C:\Users\francisw\Documents\damn-yankee-data\:/app/damn-yankee-data/ damn-yankee-image

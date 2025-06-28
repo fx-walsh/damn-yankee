@@ -1,0 +1,18 @@
+[project]
+name = "damn-yankee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pdf2image>=1.17.0",
+    "pillow>=11.2.1",
+    "pytesseract>=0.3.13",
+]
+
+[project.scripts]
+damn-yankee = "damn_yankee:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

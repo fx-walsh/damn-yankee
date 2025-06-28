@@ -1,0 +1,97 @@
+2025-06-02 12:09:43,021 [INFO] Reading input pdfs from /app/data/damn-yankee-data/2004-03-01-2004-06-30/
+2025-06-02 12:09:43,022 [INFO] Writing png imgaes to /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean
+2025-06-02 12:10:20,245 [INFO] Reading input pdfs from /app/data/damn-yankee-data/2004-03-01-2004-06-30/
+2025-06-02 12:10:20,245 [INFO] Writing png imgaes to /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean
+2025-06-02 12:10:20,246 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0006.pdf'
+2025-06-02 12:10:20,249 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0001.pdf'
+2025-06-02 12:10:20,249 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0002.pdf'
+2025-06-02 12:10:20,250 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0004.pdf'
+2025-06-02 12:10:20,251 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0005.pdf'
+2025-06-02 12:10:20,251 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0003.pdf'
+2025-06-02 12:12:40,910 [INFO] Reading input pdfs from /app/data/damn-yankee-data/2004-03-01-2004-06-30/
+2025-06-02 12:12:40,911 [INFO] Writing png images to /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean
+2025-06-02 12:12:40,912 [INFO] /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean does not exist, creating it
+2025-06-02 12:12:40,914 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0006.pdf'
+2025-06-02 12:12:40,915 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0001.pdf'
+2025-06-02 12:12:40,915 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0002.pdf'
+2025-06-02 12:12:40,916 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0004.pdf'
+2025-06-02 12:12:40,917 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0005.pdf'
+2025-06-02 12:12:40,917 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0003.pdf'
+2025-06-02 12:12:40,918 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean'
+2025-06-02 12:12:51,228 [INFO] Reading input pdfs from /app/data/damn-yankee-data/2004-03-01-2004-06-30/
+2025-06-02 12:12:51,229 [INFO] Writing png images to /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean
+2025-06-02 12:12:51,230 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0006.pdf'
+2025-06-02 12:12:51,230 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0001.pdf'
+2025-06-02 12:12:51,231 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0002.pdf'
+2025-06-02 12:12:51,232 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0004.pdf'
+2025-06-02 12:12:51,232 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0005.pdf'
+2025-06-02 12:12:51,233 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0003.pdf'
+2025-06-02 12:12:51,233 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean'
+2025-06-02 12:15:38,271 [INFO] Reading input pdfs from /app/data/damn-yankee-data/2004-03-01-2004-06-30/
+2025-06-02 12:15:38,271 [INFO] Writing png images to /app/data/damn-yankee-data/2004-03-01-2004-06-30/clean
+2025-06-02 12:15:38,272 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0006.pdf'
+2025-06-02 12:15:40,232 [INFO] Converted PDF into 1 image(s)
+2025-06-02 12:15:54,346 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0006.pdf_page_1.png'
+2025-06-02 12:15:54,347 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0001.pdf'
+2025-06-02 12:16:18,889 [INFO] Converted PDF into 5 image(s)
+2025-06-02 12:16:24,090 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0001.pdf_page_1.png'
+2025-06-02 12:16:32,533 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0001.pdf_page_2.png'
+2025-06-02 12:16:40,534 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0001.pdf_page_3.png'
+2025-06-02 12:16:49,217 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0001.pdf_page_4.png'
+2025-06-02 12:16:58,510 [INFO] Saved page 5 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0001.pdf_page_5.png'
+2025-06-02 12:16:58,510 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0002.pdf'
+2025-06-02 12:17:06,013 [INFO] Converted PDF into 4 image(s)
+2025-06-02 12:17:15,622 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0002.pdf_page_1.png'
+2025-06-02 12:17:24,701 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0002.pdf_page_2.png'
+2025-06-02 12:17:35,556 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0002.pdf_page_3.png'
+2025-06-02 12:17:44,689 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0002.pdf_page_4.png'
+2025-06-02 12:17:44,690 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0004.pdf'
+2025-06-02 12:17:50,406 [INFO] Converted PDF into 4 image(s)
+2025-06-02 12:18:00,797 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0004.pdf_page_1.png'
+2025-06-02 12:18:11,188 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0004.pdf_page_2.png'
+2025-06-02 12:18:20,157 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0004.pdf_page_3.png'
+2025-06-02 12:18:29,097 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0004.pdf_page_4.png'
+2025-06-02 12:18:29,098 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0005.pdf'
+2025-06-02 12:18:34,962 [INFO] Converted PDF into 4 image(s)
+2025-06-02 12:18:43,360 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0005.pdf_page_1.png'
+2025-06-02 12:18:52,334 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0005.pdf_page_2.png'
+2025-06-02 12:19:01,372 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0005.pdf_page_3.png'
+2025-06-02 12:19:09,772 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0005.pdf_page_4.png'
+2025-06-02 12:19:09,772 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/copy0003.pdf'
+2025-06-02 12:19:15,334 [INFO] Converted PDF into 4 image(s)
+2025-06-02 12:19:24,710 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0003.pdf_page_1.png'
+2025-06-02 12:19:33,565 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0003.pdf_page_2.png'
+2025-06-02 12:19:42,802 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0003.pdf_page_3.png'
+2025-06-02 12:19:51,829 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/copy0003.pdf_page_4.png'
+2025-06-02 12:19:51,830 [INFO] Starting PDF to PNG conversion for '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean'
+2025-06-02 12:19:51,844 [ERROR] Failed to convert PDF: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+Traceback (most recent call last):
+  File "/app/damn-yankee/.venv/lib/python3.12/site-packages/pdf2image/pdf2image.py", line 602, in pdfinfo_from_path
+    raise ValueError
+ValueError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/app/damn-yankee/src/damn_yankee/clean/pdf_to_png.py", line 42, in <module>
+    images = convert_from_path(pdf_path, dpi=DPI)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/damn-yankee/.venv/lib/python3.12/site-packages/pdf2image/pdf2image.py", line 127, in convert_from_path
+    page_count = pdfinfo_from_path(
+                 ^^^^^^^^^^^^^^^^^^
+  File "/app/damn-yankee/.venv/lib/python3.12/site-packages/pdf2image/pdf2image.py", line 611, in pdfinfo_from_path
+    raise PDFPageCountError(
+pdf2image.exceptions.PDFPageCountError: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-06-02 12:20:00,625 [INFO] Saved page 1 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/clean_page_1.png'
+2025-06-02 12:20:08,847 [INFO] Saved page 2 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/clean_page_2.png'
+2025-06-02 12:20:17,902 [INFO] Saved page 3 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/clean_page_3.png'
+2025-06-02 12:20:26,724 [INFO] Saved page 4 to '/app/data/damn-yankee-data/2004-03-01-2004-06-30/clean/clean_page_4.png'
